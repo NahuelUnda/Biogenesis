@@ -33,7 +33,15 @@ Using **Python**, **Power BI**, and advanced data analysis techniques, I evaluat
 
 ## 💡 Skills Developed
 
-`Python` · `Pandas` · `NumPy` · `Power BI` · `Data Cleaning & Transformation` · `Data Visualization` · `Statistical Analysis` · `Data-Driven Decision Making`
+- Python
+- Pandas
+- NumPy
+- Power BI
+- DAX
+- Data Cleaning & Transformation
+- Data Visualization
+- Statistical Analysis
+- Data-Driven Decision Making
 
 ---
 

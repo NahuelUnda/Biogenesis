@@ -1,4 +1,4 @@
-# 🦠 COVID-19 — BioGenesys
+# 🦠 COVID-19 — BioGenesis
 
 📊 **Strategic Analysis for Pharmaceutical Expansion in Latin America**
 

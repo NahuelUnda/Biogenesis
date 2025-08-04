@@ -6,6 +6,7 @@ This project provides analytical support to **BioGenesys**, a pharmaceutical com
 
 Using **Python**, **Power BI**, and advanced data analysis techniques, I evaluated the incidence of COVID-19, vaccination rates, population density, urbanization, healthcare workforce availability, and socioeconomic factors to identify strategic locations for expansion.
 
+
 ---
 
 ## 🔍 Main Tasks
